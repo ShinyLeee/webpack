@@ -1,19 +1,21 @@
 {
   "chunkHashs": {
-    "0": "26ffdd71bd1f30ec99c80f24146af904"
+    "[name]/entry.js": "0c3b9e86123a38df2e2b2e54a35b92c9"
   },
   "chunkModuleHashes": {
-    "0|webpack/runtime/get javascript update chunk filename": "4dd851b690a8b52da9d1e95213b9289f",
-    "0|webpack/runtime/get update manifest filename": "ac4c78ba1f8ab00b6c173de853a5a96b",
-    "0|webpack/runtime/global": "70a6c3a2f933cdf0a42c1b05d93df069",
-    "0|webpack/runtime/hasOwnProperty shorthand": "0ac18105f7f2139facfeabeaed29c4ec",
-    "0|webpack/runtime/hot module replacement": "789e4e2198b841a86a6d9f68e5cd51d9",
-    "0|webpack/runtime/jsonp chunk loading": "c8c9d98785bad39c9c9de11879110be5",
-    "0|webpack/runtime/load script": "9c64ef6268f190463f4b65b930272c2c",
-    "0|webpack/runtime/publicPath": "e5edbfe2865af436c0afde2db3646016"
+    "[name]/entry.js|/Users/shinylee/workspace/webpack/test/js/HotModuleReplacementPlugin/[name]/entry.js": "5120f3bc8cd47ba9c9ca5c2a8f98a9df",
+    "[name]/entry.js|webpack/runtime/get javascript update chunk filename": "acdb08c8c2e3295c94b4a5344eaa61c2",
+    "[name]/entry.js|webpack/runtime/get update manifest filename": "057f3c4c0f1b8989ace2e578faa3d8ff",
+    "[name]/entry.js|webpack/runtime/getFullHash": "15dc92d00e6d617a1c09c9c76ec48d7f",
+    "[name]/entry.js|webpack/runtime/global": "70a6c3a2f933cdf0a42c1b05d93df069",
+    "[name]/entry.js|webpack/runtime/hasOwnProperty shorthand": "0ac18105f7f2139facfeabeaed29c4ec",
+    "[name]/entry.js|webpack/runtime/hot module replacement": "789e4e2198b841a86a6d9f68e5cd51d9",
+    "[name]/entry.js|webpack/runtime/jsonp chunk loading": "658e00faf980c99ace7551db21aa0d72",
+    "[name]/entry.js|webpack/runtime/load script": "9c64ef6268f190463f4b65b930272c2c",
+    "[name]/entry.js|webpack/runtime/publicPath": "dad81ec05ca46712c21309af3eae7fba"
   },
   "chunkModuleIds": {
-    "0": [
+    "[name]/entry.js": [
       "",
       "",
       "",
@@ -22,11 +24,12 @@
       "",
       "",
       "",
-      ""
+      "",
+      "./test/js/HotModuleReplacementPlugin/[name]/entry.js"
     ]
   },
   "chunkRuntime": {
-    "0": "0"
+    "[name]/entry.js": "[name]/entry.js"
   },
   "chunks": {
     "byName": {},
@@ -34,10 +37,10 @@
     "usedIds": []
   },
   "fullHashChunkModuleHashes": {
-    "0|webpack/runtime/getFullHash": "60f2538e3577e5cc03182f6ae424afec"
+    "[name]/entry.js|webpack/runtime/getFullHash": "60f2538e3577e5cc03182f6ae424afec"
   },
-  "hash": "946bac971b69abc563a5",
-  "hotIndex": 0,
+  "hash": "21201174b78ca5f898d2",
+  "hotIndex": 2,
   "modules": {
     "byIdentifier": {},
     "usedIds": []
