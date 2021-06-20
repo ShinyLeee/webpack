@@ -7,8 +7,19 @@
  * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
  */
 /******/ (() => { // webpackBootstrap
-/******/ 	"use strict";
-/******/ 	var __webpack_modules__ = ({});
+/******/ 	var __webpack_modules__ = ({
+
+/***/ "./test/mock/entry.js":
+/*!****************************!*\
+  !*** ./test/mock/entry.js ***!
+  \****************************/
+/***/ ((module) => {
+
+eval("if (true) {\n  module.hot.accept((err) => {\n    if (err) {\n      console.error('Cannot apply HMR update.', err);\n    }\n    console.log('HMR update success.');\n    console.log('i am entry')\n  });\n}\n\n\n//# sourceURL=webpack://webpack/./test/mock/entry.js?");
+
+/***/ })
+
+/******/ 	});
 /************************************************************************/
 /******/ 	// The module cache
 /******/ 	var __webpack_module_cache__ = {};
@@ -69,7 +80,7 @@
 /******/ 	
 /******/ 	/* webpack/runtime/getFullHash */
 /******/ 	(() => {
-/******/ 		__webpack_require__.h = () => ("946bac971b69abc563a5")
+/******/ 		__webpack_require__.h = () => ("0593913ea47487eed687")
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/global */
@@ -1041,6 +1052,9 @@
 /************************************************************************/
 /******/ 	
 /******/ 	// module cache are used so entry inlining is disabled
+/******/ 	// startup
+/******/ 	// Load entry module and return exports
+/******/ 	var __webpack_exports__ = __webpack_require__("./test/mock/entry.js");
 /******/ 	
 /******/ })()
 ;
