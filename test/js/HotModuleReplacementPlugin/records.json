@@ -1,9 +1,9 @@
 {
   "chunkHashs": {
-    "0": "e248e4df49726c7293a80e83ac290403"
+    "0": "fe7e7e30e6570224874fc9fe0427357a"
   },
   "chunkModuleHashes": {
-    "0|/Users/shinylee/workspace/webpack/test/mock/entry.js": "ed4cd04acc4a7dcadb59b6ad4f6288ca",
+    "0|/Users/shinylee/workspace/webpack/test/mock/entry.js": "5071248192203929efe380530380bc0c",
     "0|webpack/runtime/get javascript update chunk filename": "4dd851b690a8b52da9d1e95213b9289f",
     "0|webpack/runtime/get update manifest filename": "ac4c78ba1f8ab00b6c173de853a5a96b",
     "0|webpack/runtime/global": "70a6c3a2f933cdf0a42c1b05d93df069",
@@ -38,7 +38,7 @@
   "fullHashChunkModuleHashes": {
     "0|webpack/runtime/getFullHash": "60f2538e3577e5cc03182f6ae424afec"
   },
-  "hash": "0593913ea47487eed687",
+  "hash": "fbe8eedd2b53c0c6563a",
   "hotIndex": 0,
   "modules": {
     "byIdentifier": {},

@@ -13,9 +13,9 @@
 /*!****************************!*\
   !*** ./test/mock/entry.js ***!
   \****************************/
-/***/ ((module) => {
+/***/ (() => {
 
-eval("if (true) {\n  module.hot.accept((err) => {\n    if (err) {\n      console.error('Cannot apply HMR update.', err);\n    }\n    console.log('HMR update success.');\n    console.log('i am entry')\n  });\n}\n\n\n//# sourceURL=webpack://webpack/./test/mock/entry.js?");
+eval("if (false) {}\n\n\n//# sourceURL=webpack://webpack/./test/mock/entry.js?");
 
 /***/ })
 
@@ -80,7 +80,7 @@ eval("if (true) {\n  module.hot.accept((err) => {\n    if (err) {\n      console
 /******/ 	
 /******/ 	/* webpack/runtime/getFullHash */
 /******/ 	(() => {
-/******/ 		__webpack_require__.h = () => ("0593913ea47487eed687")
+/******/ 		__webpack_require__.h = () => ("fbe8eedd2b53c0c6563a")
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/global */
