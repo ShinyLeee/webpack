@@ -1,12 +1,11 @@
 {
   "chunkHashs": {
-    "[name]/entry.js": "0c3b9e86123a38df2e2b2e54a35b92c9"
+    "[name]/entry.js": "9a4fec6de187a1274a02a17396d3d99c"
   },
   "chunkModuleHashes": {
-    "[name]/entry.js|/Users/shinylee/workspace/webpack/test/js/HotModuleReplacementPlugin/[name]/entry.js": "5120f3bc8cd47ba9c9ca5c2a8f98a9df",
+    "[name]/entry.js|/Users/shinylee/workspace/webpack/test/js/HotModuleReplacementPlugin/[name]/entry.js": "3fe30f7cf86e89b53f0ed65bd96bda38",
     "[name]/entry.js|webpack/runtime/get javascript update chunk filename": "acdb08c8c2e3295c94b4a5344eaa61c2",
     "[name]/entry.js|webpack/runtime/get update manifest filename": "057f3c4c0f1b8989ace2e578faa3d8ff",
-    "[name]/entry.js|webpack/runtime/getFullHash": "15dc92d00e6d617a1c09c9c76ec48d7f",
     "[name]/entry.js|webpack/runtime/global": "70a6c3a2f933cdf0a42c1b05d93df069",
     "[name]/entry.js|webpack/runtime/hasOwnProperty shorthand": "0ac18105f7f2139facfeabeaed29c4ec",
     "[name]/entry.js|webpack/runtime/hot module replacement": "789e4e2198b841a86a6d9f68e5cd51d9",
@@ -39,7 +38,7 @@
   "fullHashChunkModuleHashes": {
     "[name]/entry.js|webpack/runtime/getFullHash": "60f2538e3577e5cc03182f6ae424afec"
   },
-  "hash": "21201174b78ca5f898d2",
+  "hash": "cc4724f3263777a4f9d8",
   "hotIndex": 2,
   "modules": {
     "byIdentifier": {},
