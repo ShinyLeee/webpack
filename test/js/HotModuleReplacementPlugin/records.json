@@ -1,43 +1,9 @@
 {
-  "chunkHashs": {
-    "0": "26ffdd71bd1f30ec99c80f24146af904"
-  },
-  "chunkModuleHashes": {
-    "0|webpack/runtime/get javascript update chunk filename": "4dd851b690a8b52da9d1e95213b9289f",
-    "0|webpack/runtime/get update manifest filename": "ac4c78ba1f8ab00b6c173de853a5a96b",
-    "0|webpack/runtime/global": "70a6c3a2f933cdf0a42c1b05d93df069",
-    "0|webpack/runtime/hasOwnProperty shorthand": "0ac18105f7f2139facfeabeaed29c4ec",
-    "0|webpack/runtime/hot module replacement": "789e4e2198b841a86a6d9f68e5cd51d9",
-    "0|webpack/runtime/jsonp chunk loading": "c8c9d98785bad39c9c9de11879110be5",
-    "0|webpack/runtime/load script": "9c64ef6268f190463f4b65b930272c2c",
-    "0|webpack/runtime/publicPath": "e5edbfe2865af436c0afde2db3646016"
-  },
-  "chunkModuleIds": {
-    "0": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  "chunkRuntime": {
-    "0": "0"
-  },
   "chunks": {
     "byName": {},
     "bySource": {},
     "usedIds": []
   },
-  "fullHashChunkModuleHashes": {
-    "0|webpack/runtime/getFullHash": "60f2538e3577e5cc03182f6ae424afec"
-  },
-  "hash": "946bac971b69abc563a5",
-  "hotIndex": 0,
   "modules": {
     "byIdentifier": {},
     "usedIds": []
